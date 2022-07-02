@@ -2,11 +2,11 @@
 
 This is a repository containing Cheat Engine tables for the game MGSV. (Metal Gear Solid V: The Phantom Pain)
 
-If you do not have Cheat Engine downloaded / installed, you can download Cheat Engine from here: https://cheatengine.org/
+If you do not have Cheat Engine downloaded / installed, you can download Cheat Engine from here: <https://cheatengine.org/>
 
-# Cheat Tables
+## Cheat Tables
 
-The following Cheat Tables uploaded are: 
+The following Cheat Tables uploaded are:
 
 ```
 fob_rewards_156.ct
