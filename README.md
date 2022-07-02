@@ -6,7 +6,7 @@ If you do not have Cheat Engine downloaded / installed, you can download Cheat E
 
 ## Cheat Tables
 
-The following Cheat Tables uploaded are:
+The following Cheat Tables names are here and the folder can be viewed [here](https://github.com/Aholicknight/MGSV-Cheat-Engine-Tables/tree/main/Cheat%20Tables)
 
 ```
 fob_rewards_156.ct
